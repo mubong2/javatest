@@ -9,6 +9,6 @@ entries:
     name: mubong
     type: application
     urls:
-    - https://mubong2.github.io/mubong2/javatest/mubong-0.1.0.tgz
+    - https://mubong2.github.io/javatest/mubong-0.1.0.tgz
     version: 0.1.0
 generated: "2023-10-15T03:33:12.388286306Z"
