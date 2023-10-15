@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mubong:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-10-15T03:33:12.388865076Z"
+    description: A Helm chart for Kubernetes
+    digest: f6f3e24d10c829ce0aae19723ae546e3668f53b2651e4915847c01513291ad8d
+    name: mubong
+    type: application
+    urls:
+    - mubong-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-10-15T03:33:12.388286306Z"
